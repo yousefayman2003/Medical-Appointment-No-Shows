@@ -1,6 +1,6 @@
 # Medical-Appointment-No-Shows
 
-##This is a second project from a udacity data analysis nanodegree
+## This is a second project from a udacity data analysis nanodegree
 
 - the csv file is the dataset
 
